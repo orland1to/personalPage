@@ -1,0 +1,139 @@
+{
+    "main": {
+      "name":"Salvador Camarillo",
+      "occupation":"Software Developer/ Mechatronics engineer",
+      "description":"Appasionate with new technologies, always in moving and  self learning with no fear to take challenges.",
+      "image":"profilepic1.jpg",
+      "bio":"I am a software developer,Mechatronic engineer and Maker, currently working with React js-Aws-Amplify with experience in Django-Python, python libraries as sklearn,pandas matplotlib,numpy, AWS cloud Services, serverless and React native , self motivated always in self learning. Maker interested in 3d print in recent pandemic crissis looking to make community and help others.",
+      "contactmessage":"How can I help you to make your projects reality.",
+      "email": "s4lvadorcamarill0@gmail.com",
+      "phone": "9531736257",
+      "address":{
+        "street":"10 de abril #5",
+        "city":"Huajuapan de León",
+        "state":"Oaxaca",
+        "zip": "69004"
+      },
+      "website": "",
+      "resumedownload":"https://orland1to.github.io/personal_page/salvadorcamarillo.pdf",
+      "social":[
+        
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/orlando-salvador-camarillo-moreno-829819120/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"http://github.com/orland1to",
+          "className":"fa fa-github"
+        }
+        ,
+        {
+          "name":"facebook",
+          "url":"https://web.facebook.com/mkmakersmx/?_rdc=1&_rdr",
+          "className":"fa fa-facebook"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"Tools to colaborate with your projects",
+      "education":[
+        {
+          "school":"Universidad Tecnológica de la Mixteca",
+          "degree":"Mechatronics engineering",
+          "graduated":"july 2017",
+          "description":"Working with low level languages, learning assembler,c++, html morehover working with network protocols and security."
+        }
+      ],
+      "work":[
+        {
+          "company":"ParthenonTech",
+          "title":" fullstack developer-devop ",
+          "years":"August 2018 - Present",
+          "description":"Working as fullStack developer and devop, mi real tittle migth be a problem solver, im in charge to research and test new technologies and apply to the projects."
+        },
+        {
+          "company":"MkMakers",
+          "title":"Mechanical design, 3D printer engineer and co-founder",
+          "years":"November 2019- Present",
+          "description":"Working to  provide the tools and skills for students near the university we star offering electrical components, 3d printing, electical and mechanical design and currently working to supply faceshields to medicas in the area."
+        }
+      ],
+      "skills":[
+        {
+          "name":"Git",
+          "level":"60%"
+        },
+        {
+          "name":"Django/Python",
+          "level":"60%"
+        },
+        {
+          "name":"Sklearn,pandas,numpy, machine learning python tools",
+          "level":"60%"
+        },
+        {
+          "name":"ReactJs",
+          "level":"70%"
+        },
+        {
+          "name":"CSS",
+          "level":"70%"
+        },
+        {
+          "name":"HTML5",
+          "level":"70%"
+        },
+        {
+          "name":"AWS-Amplify",
+          "level":"70%"
+        },
+        {
+          "name":"AWS",
+          "level":"50%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Atlas of innovation",
+          "category":"A global makerspaces information using django-python",
+          "image":"atlas.png",
+          "url":"https://www.atlasofinnovation.com"
+        },
+        {
+          "title":"Bigleaper",
+          "category":"(Restricted access) A react-aws-amplify app platform to automatice exportations and importations",
+          "image":"bigleaper.png",
+          "url":"http://access.bigleaper.io"
+        },
+        {
+          "title":"Makernet",
+          "category":"A complete platform to manage a Makerspaces written in: ruby on rails-angular ",
+          "image":"logo_makernetwork.png",
+          "url":"http://test.makernet.work/#!/"
+        },
+        {
+          "title":"Face shield protection",
+          "category":"working to make 3d printing face shields for medicals as art of ApoyoOaxCovid19 non profit asossiation ",
+          "image":"caretas.jpg",
+          "url":"https://web.facebook.com/pages/category/Charity-Organization/ApoyooaxCovid19-101099421555355/?_rdc=1&_rdr"
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+          "user":"Kareem Abdul Jabbar"
+        },
+        {
+          "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+          "user":"Steve Wozniak... impersonator"
+        }
+      ]
+    }
+  }
+  
